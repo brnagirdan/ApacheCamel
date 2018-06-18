@@ -1,0 +1,10 @@
+com\berna\camel\file\FileRouter.class
+com\berna\camel\file\config\ContentBasedFileRouterConfig.class
+com\berna\camel\file\MulticastFileRouter.class
+com\berna\camel\file\ContentBasedFileRouter.class
+com\berna\camel\file\DeadLetterFileRouter.class
+com\berna\camel\file\MessageTranslatorFileRouter.class
+com\berna\camel\processor\FileProcessor.class
+com\berna\camel\file\FileProcessor.class
+com\berna\camel\main\App.class
+com\berna\camel\file\SplitterFileRouter.class
